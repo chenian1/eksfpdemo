@@ -8,4 +8,4 @@ version: 'latest'
 
 # Service Specific Values
 frontend:
-  image: 38865708116.dkr.ecr.us-west-1.amazonaws.com/fp1
+  image: 538865708116.dkr.ecr.us-west-1.amazonaws.com/fp1
